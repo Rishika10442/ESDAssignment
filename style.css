@@ -89,6 +89,10 @@
     color: white;
     font-size: larger;
 }
+.line3:hover{
+cursor: pointer;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
 .lowerbox{
     width: auto;
     height:auto;
@@ -185,6 +189,7 @@ flex-direction: row;
     display: flex;
     flex-direction: row;
     margin-bottom: 0;
+
    
 
 }
@@ -203,6 +208,11 @@ flex-direction: row;
     font-size: 20px;
     padding: 3px;
 
+}
+.add:hover{
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+   
 }
 .star{
     width: 20%;
